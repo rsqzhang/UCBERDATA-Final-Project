@@ -1,0 +1,301 @@
+First_Name,Last_Name,Age,Hometown,Occupation,Marital Status,Gender,Income,Favorite vacation type,Do you have a fear of missing out?,What kind of a traveler are you?
+Amal,Carson,78,DS,Arts Design Entertainment Sports and Media,Single,Non-binery,"$137,356.83 ",Nature,No,Budget Backpacking
+Harlan,Logan,16,Ontario,Architecture and Engineering,Single,Non-binery,"$82,006.38 ",Beach Trip,No,Budget Backpacking
+Dorian,Ezekiel,65,Imo,Arts Design Entertainment Sports and Media,Divorced,Non-binery,"$353,477.53 ",Nature,Yes,Luxury Traveler
+Timothy,Nero,85,Van,Arts Design Entertainment Sports and Media,Divorced,Non-binery,"$92,311.43 ",Culture Vulture,Yes,Budget Backpacking
+William,Ethan,10,Gelderland,Healthcare Practitioners and Technical,Divorced,Non-binery,"$477,169.79 ",Beach Trip,Yes,Luxury Traveler
+Brian,David,31,Catalunya,Architecture and Engineering,Divorced,Non-binery,"$145,357.33 ",Culture Vulture,No,Budget Backpacking
+Merrill,Jonah,57,Sokoto,Business and Financial Operations,Married,M,"$368,637.91 ",Family Vacation,No,Budget Backpacking
+Leo,George,65,Wie,Healthcare Practitioners and Technical,Single,M,"$112,536.53 ",Culture Vulture,No,Luxury Traveler
+Kirk,Caldwell,80,LU,Architecture and Engineering,Single,F,"$445,790.54 ",Family Vacation,Yes,Budget Backpacking
+Arden,Bradley,83,KN, Military,Single,F,"$344,165.29 ",Beach Trip,Yes,Luxury Traveler
+Marshall,Kibo,6,Ontario,Protective Service,Divorced,Non-binery,"$402,947.85 ",City Tour,Yes,Budget Backpacking
+Gary,Dorian,2,Ceará, Construction and Extraction,Married,M,"$278,149.64 ",Family Vacation,Yes,Luxury Traveler
+Ulric,Yardley,96,Provence-Alpes-Côte d'Azur,Arts Design Entertainment Sports and Media,Married,Non-binery,"$2,346.60 ",City Tour,No,Budget Backpacking
+Colton,Timothy,3,Kaduna,Healthcare Practitioners and Technical,Divorced,F,"$433,725.27 ",Culture Vulture,Yes,Budget Backpacking
+Simon,Dale,85,Northwest Territories,Architecture and Engineering,Divorced,F,"$341,187.72 ",Family Vacation,Yes,Budget Backpacking
+Fuller,Dale,29,Alberta,Arts Design Entertainment Sports and Media,Divorced,F,"$208,572.53 ",City Tour,No,Luxury Traveler
+Alec,Jared,100,XIV,Protective Service,Divorced,M,"$18,659.36 ",City Tour,No,Budget Backpacking
+August,Prescott,76,Wie,Healthcare Practitioners and Technical,Married,F,"$354,347.37 ",Culture Vulture,Yes,Budget Backpacking
+Brandon,Harlan,21,SP, Computer and Mathematical,Single,Non-binery,"$197,678.49 ",City Tour,Yes,Luxury Traveler
+Forrest,Wade,69,Luxemburg,Healthcare Practitioners and Technical,Single,Non-binery,"$147,879.43 ",Solo Trip,Yes,Budget Backpacking
+Neville,Malik,70,QC,Office and Administrative Support,Married,Non-binery,"$465,849.90 ",Beach Trip,No,Budget Backpacking
+Daniel,Grady,20,Indiana,Healthcare Practitioners and Technical,Married,F,"$346,555.10 ",City Tour,Yes,Budget Backpacking
+Grady,Calvin,1,MA,Management,Married,M,"$180,986.67 ",Nature,No,Luxury Traveler
+Xenos,Curran,62,Limón,Healthcare Practitioners and Technical,Divorced,Non-binery,"$371,300.89 ",Nature,Yes,Budget Backpacking
+Ezekiel,Salvador,48,E, Computer and Mathematical,Divorced,M,"$131,693.92 ",Beach Trip,Yes,Luxury Traveler
+Duncan,Cruz,47,RM,Life and Social Science,Single,Non-binery,"$468,759.58 ",Family Vacation,Yes,Budget Backpacking
+Ulysses,Ulric,38,HB,Management,Divorced,F,"$368,023.57 ",Nature,Yes,Budget Backpacking
+Cruz,Ralph,4,MD,Farming Fishing and Forestry,Divorced,Non-binery,"$153,077.35 ",Solo Trip,No,Budget Backpacking
+Branden,Tanek,56,SIC,Healthcare Practitioners and Technical,Married,Non-binery,"$52,049.78 ",Family Vacation,Yes,Luxury Traveler
+Hayes,Alec,87,Imo,Protective Service,Married,M,"$63,987.24 ",Culture Vulture,No,Luxury Traveler
+Odysseus,Cullen,59,SS,Management,Single,M,"$124,582.55 ",Culture Vulture,No,Luxury Traveler
+Martin,Burke,31,New South Wales,Healthcare Practitioners and Technical,Married,Non-binery,"$132,942.09 ",Nature,No,Budget Backpacking
+Quentin,Trevor,10,FI,Food Preparation and Serving Related,Single,Non-binery,"$479,187.41 ",Nature,Yes,Luxury Traveler
+Lamar,Brody,59,Uttar Pradesh,Office and Administrative Support,Single,M,"$142,953.97 ",Nature,No,Budget Backpacking
+Buckminster,Cairo,55,BW,Office and Administrative Support,Married,M,"$209,134.59 ",City Tour,Yes,Budget Backpacking
+Hakeem,Kasimir,96,PA,Healthcare Practitioners and Technical,Married,M,"$496,185.32 ",City Tour,Yes,Luxury Traveler
+Travis,Elliott,15,Cambridgeshire,Business and Financial Operations,Single,F,"$24,263.12 ",Family Vacation,No,Budget Backpacking
+Alexander,Ralph,63,Warwickshire,Healthcare Practitioners and Technical,Single,Non-binery,"$232,769.48 ",Family Vacation,No,Budget Backpacking
+Ryan,Josiah,1,Aragón, Military,Married,F,"$106,664.97 ",City Tour,Yes,Luxury Traveler
+Gareth,Dante,76,Overijssel,Management,Single,Non-binery,"$273,779.56 ",Culture Vulture,No,Budget Backpacking
+Benedict,Reece,68,SA, Construction and Extraction,Single,M,"$358,961.53 ",Beach Trip,No,Budget Backpacking
+Marshall,Samuel,49,Zeeland, Computer and Mathematical,Married,M,"$402,502.84 ",Nature,Yes,Luxury Traveler
+Lars,Colt,36,RM,Management,Single,M,"$182,987.15 ",Family Vacation,Yes,Budget Backpacking
+Fletcher,Holmes,73,VII, Construction and Extraction,Divorced,M,"$97,224.26 ",Beach Trip,Yes,Luxury Traveler
+Fletcher,Xander,21,KY, Computer and Mathematical,Married,Non-binery,"$480,638.36 ",Solo Trip,Yes,Budget Backpacking
+Bernard,Gage,52,Wie, Computer and Mathematical,Married,Non-binery,"$433,032.04 ",City Tour,Yes,Budget Backpacking
+Reece,Evan,80,CV,Arts Design Entertainment Sports and Media,Divorced,F,"$315,221.78 ",Nature,Yes,Budget Backpacking
+Vladimir,Trevor,90,Gaz,Food Preparation and Serving Related,Single,Non-binery,"$234,687.93 ",Family Vacation,No,Budget Backpacking
+Baker,Ivan,48,Heredia,Office and Administrative Support,Married,M,"$188,637.07 ",Solo Trip,Yes,Budget Backpacking
+Jamal,Damon,65,TN,Protective Service,Married,Non-binery,"$434,305.59 ",City Tour,Yes,Luxury Traveler
+Joshua,Cedric,43,Kirkcudbrightshire,Farming Fishing and Forestry,Married,F,"$402,017.69 ",Solo Trip,No,Luxury Traveler
+Nicholas,Curran,97,WE,Management,Single,Non-binery,"$132,876.22 ",Culture Vulture,Yes,Budget Backpacking
+Keaton,Barclay,98,Luik, Military,Single,F,"$284,404.77 ",Nature,Yes,Budget Backpacking
+Macon,Dominic,67,Andalucía,Life and Social Science,Divorced,M,"$1,538.56 ",Culture Vulture,Yes,Luxury Traveler
+Giacomo,Cameron,2,Trentino-Alto Adige,Protective Service,Single,M,"$49,867.43 ",City Tour,Yes,Budget Backpacking
+Daniel,Holmes,65,Noord Brabant, Construction and Extraction,Single,F,"$307,405.04 ",Beach Trip,Yes,Luxury Traveler
+Lee,Eagan,62,C,Office and Administrative Support,Divorced,F,"$182,977.59 ",City Tour,Yes,Luxury Traveler
+Keegan,Kennan,71,Connacht, Computer and Mathematical,Married,M,"$97,923.26 ",Culture Vulture,No,Budget Backpacking
+Evan,Eagan,94,Hat,Life and Social Science,Married,M,"$175,890.88 ",Nature,No,Luxury Traveler
+Hamish,Arthur,38,Quebec,Architecture and Engineering,Married,F,"$428,767.61 ",Nature,Yes,Budget Backpacking
+Martin,Cedric,1,Uttar Pradesh,Food Preparation and Serving Related,Single,Non-binery,"$303,952.69 ",Beach Trip,No,Luxury Traveler
+Jason,Blake,6,WA,Management,Divorced,F,"$118,009.72 ",Culture Vulture,No,Luxury Traveler
+Colton,Brenden,17,Rivers,Business and Financial Operations,Married,F,"$297,024.48 ",City Tour,No,Luxury Traveler
+Micah,Abdul,57,NI,Food Preparation and Serving Related,Single,M,"$136,716.41 ",Beach Trip,No,Luxury Traveler
+Byron,Rajah,71,Alabama,Farming Fishing and Forestry,Divorced,M,"$25,657.72 ",Beach Trip,Yes,Luxury Traveler
+Kevin,Xanthus,49,Los Ríos,Architecture and Engineering,Married,F,"$193,661.35 ",City Tour,Yes,Luxury Traveler
+Kato,Hayden,36,MH,Healthcare Practitioners and Technical,Single,M,"$99,599.70 ",Nature,No,Budget Backpacking
+Seth,Tyler,66,CH, Military,Married,M,"$374,446.12 ",Culture Vulture,Yes,Budget Backpacking
+Quinn,Akeem,77,RJ,Life and Social Science,Married,F,"$292,742.72 ",Culture Vulture,Yes,Budget Backpacking
+Steven,George,62,MT,Food Preparation and Serving Related,Single,F,"$252,332.88 ",Solo Trip,No,Luxury Traveler
+Baker,Keaton,94,H,Arts Design Entertainment Sports and Media,Married,Non-binery,"$278,884.52 ",Family Vacation,No,Luxury Traveler
+Duncan,Dane,4,RM,Protective Service,Single,Non-binery,"$273,672.18 ",Family Vacation,Yes,Luxury Traveler
+Castor,Hammett,38,Ist,Protective Service,Married,Non-binery,"$299,123.16 ",Nature,No,Budget Backpacking
+Quinlan,Clarke,24,Wyoming,Healthcare Practitioners and Technical,Divorced,F,"$126,593.98 ",Solo Trip,Yes,Luxury Traveler
+Joshua,Kareem,65,PI,Life and Social Science,Divorced,Non-binery,"$244,206.72 ",Family Vacation,No,Luxury Traveler
+Perry,Bevis,31,Toscana, Construction and Extraction,Single,F,"$262,114.77 ",Culture Vulture,No,Budget Backpacking
+Cruz,Denton,29,AR,Architecture and Engineering,Single,F,"$494,353.52 ",Solo Trip,No,Luxury Traveler
+Bruno,Chancellor,45,E,Healthcare Practitioners and Technical,Divorced,F,"$423,193.50 ",City Tour,No,Luxury Traveler
+Colorado,Jasper,47,VB, Computer and Mathematical,Married,Non-binery,"$370,026.41 ",Beach Trip,Yes,Budget Backpacking
+Jelani,Dorian,26,Ulster,Management,Single,F,"$381,130.64 ",Culture Vulture,Yes,Budget Backpacking
+Kevin,Demetrius,73,Opolskie,Office and Administrative Support,Divorced,Non-binery,"$96,096.40 ",Culture Vulture,Yes,Budget Backpacking
+Stephen,Dane,64,Abruzzo,Protective Service,Single,Non-binery,"$497,695.72 ",Culture Vulture,No,Budget Backpacking
+William,Amir,49,BC,Office and Administrative Support,Divorced,Non-binery,"$168,081.03 ",Beach Trip,Yes,Luxury Traveler
+Rajah,Raphael,61,SN,Protective Service,Single,M,"$451,184.44 ",Culture Vulture,No,Budget Backpacking
+Alden,Ferris,73,Şan,Farming Fishing and Forestry,Single,Non-binery,"$387,520.44 ",Family Vacation,No,Budget Backpacking
+Dolan,Dante,26,Madrid, Computer and Mathematical,Married,M,"$84,383.10 ",Family Vacation,No,Luxury Traveler
+Eric,Lance,15,Małopolskie,Architecture and Engineering,Single,F,"$466,173.63 ",Family Vacation,Yes,Budget Backpacking
+Brian,Micah,54,Araucanía,Architecture and Engineering,Divorced,F,"$187,749.00 ",City Tour,No,Budget Backpacking
+Quentin,Thomas,2,AN,Life and Social Science,Single,Non-binery,"$207,782.18 ",Beach Trip,No,Budget Backpacking
+Louis,Fletcher,19,Indiana,Office and Administrative Support,Divorced,F,"$418,512.20 ",Culture Vulture,Yes,Luxury Traveler
+Lester,Martin,98,Lagos,Life and Social Science,Married,Non-binery,"$247,477.97 ",Solo Trip,Yes,Budget Backpacking
+Dean,Jackson,65,Diy, Computer and Mathematical,Single,Non-binery,"$93,253.18 ",Family Vacation,Yes,Luxury Traveler
+Gavin,Axel,85,MH, Military,Married,F,"$229,388.84 ",Solo Trip,Yes,Budget Backpacking
+Damon,Elvis,52,Istanbul,Architecture and Engineering,Divorced,Non-binery,"$79,784.49 ",Solo Trip,Yes,Luxury Traveler
+Luke,Merrill,23,BC, Construction and Extraction,Divorced,Non-binery,"$182,287.00 ",City Tour,Yes,Luxury Traveler
+Curran,Benedict,2,HE,Protective Service,Married,M,"$452,973.52 ",Solo Trip,Yes,Budget Backpacking
+Wayne,Ezekiel,31,CT,Management,Divorced,Non-binery,"$492,849.82 ",City Tour,No,Budget Backpacking
+Baxter,Lionel,76,SP,Business and Financial Operations,Single,F,"$203,511.17 ",Beach Trip,No,Budget Backpacking
+Felix,Upton,27,NI, Military,Married,Non-binery,"$224,782.54 ",City Tour,Yes,Luxury Traveler
+Jerome,Prescott,97,IX,Farming Fishing and Forestry,Divorced,F,"$176,328.17 ",Culture Vulture,Yes,Budget Backpacking
+Wyoming,Ginger,75,Delaware, Computer and Mathematical,Single,M,"$7,335.58 ",Family Vacation,No,Luxury Traveler
+Yetta,Gretchen,64,BC, Construction and Extraction,Divorced,F,"$321,269.92 ",Solo Trip,Yes,Budget Backpacking
+Iliana,Karleigh,83,HH,Business and Financial Operations,Single,F,"$140,256.10 ",Beach Trip,Yes,Luxury Traveler
+Hadassah,Elaine,13,SJ, Construction and Extraction,Single,M,"$426,406.39 ",Culture Vulture,Yes,Budget Backpacking
+Marah,Amelia,24,LU,Business and Financial Operations,Divorced,F,"$466,078.58 ",City Tour,No,Budget Backpacking
+Camilla,Jennifer,67,Kon,Life and Social Science,Divorced,F,"$239,578.54 ",Beach Trip,Yes,Luxury Traveler
+Hiroko,Amber,92,Namen, Construction and Extraction,Single,F,"$13,716.04 ",Culture Vulture,Yes,Budget Backpacking
+Chiquita,Angelica,48,Hamburg,Arts Design Entertainment Sports and Media,Single,Non-binery,"$330,004.36 ",Family Vacation,No,Budget Backpacking
+Halee,Blythe,28,PK, Military,Married,F,"$209,126.37 ",Family Vacation,No,Luxury Traveler
+Maryam,Hedda,70,Lombardia,Protective Service,Single,M,"$101,076.72 ",Beach Trip,Yes,Luxury Traveler
+Brynn,Rama,24,NSW, Construction and Extraction,Married,M,"$76,721.01 ",Nature,Yes,Luxury Traveler
+Summer,Amy,3,RM,Healthcare Practitioners and Technical,Divorced,Non-binery,"$113,525.81 ",City Tour,No,Budget Backpacking
+Nadine,Hiroko,53,TN,Life and Social Science,Single,M,"$282,080.41 ",City Tour,Yes,Luxury Traveler
+Rinah,Clare,27,Lombardia,Arts Design Entertainment Sports and Media,Married,M,"$398,948.35 ",Nature,Yes,Budget Backpacking
+Kaye,Juliet,76,AN,Food Preparation and Serving Related,Single,F,"$31,776.98 ",Nature,No,Luxury Traveler
+Maile,Charissa,84,Castilla y León,Food Preparation and Serving Related,Single,M,"$78,948.45 ",Solo Trip,No,Luxury Traveler
+Maggie,September,72,CA, Military,Married,M,"$23,141.39 ",Beach Trip,Yes,Luxury Traveler
+Faith,Gloria,66,Connacht, Construction and Extraction,Single,F,"$186,383.99 ",Family Vacation,Yes,Luxury Traveler
+Yuri,Martena,97,Bahia,Arts Design Entertainment Sports and Media,Single,F,"$364,522.36 ",Family Vacation,No,Budget Backpacking
+Ivory,Serina,10,British Columbia, Military,Married,F,"$349,692.41 ",Nature,No,Budget Backpacking
+Noelani,Faith,58,RM,Office and Administrative Support,Divorced,M,"$37,272.56 ",Family Vacation,Yes,Luxury Traveler
+Signe,Rana,79,BU,Business and Financial Operations,Divorced,M,"$364,694.86 ",City Tour,No,Budget Backpacking
+Zephr,Demetria,65,Andalucía, Construction and Extraction,Divorced,M,"$232,725.42 ",Family Vacation,Yes,Budget Backpacking
+Leila,Amanda,6,HB,Healthcare Practitioners and Technical,Married,Non-binery,"$199,907.09 ",Family Vacation,Yes,Luxury Traveler
+Astra,Jessamine,24,South Island, Construction and Extraction,Married,M,"$78,085.90 ",Family Vacation,Yes,Budget Backpacking
+Willow,Shaine,11,MA,Business and Financial Operations,Single,M,"$239,723.25 ",Family Vacation,Yes,Budget Backpacking
+Kameko,Sonya,73,Queensland,Arts Design Entertainment Sports and Media,Divorced,F,"$410,198.94 ",City Tour,Yes,Luxury Traveler
+Jordan,Melissa,53,Castilla - La Mancha, Construction and Extraction,Divorced,F,"$317,606.08 ",City Tour,Yes,Budget Backpacking
+Francesca,Cherokee,85,VIC,Management,Married,M,"$112,367.83 ",City Tour,Yes,Luxury Traveler
+Jayme,Celeste,81,British Columbia,Protective Service,Single,F,"$421,478.74 ",Culture Vulture,Yes,Luxury Traveler
+Alana,Kai,13,Lubuskie, Construction and Extraction,Divorced,F,"$379,674.72 ",Culture Vulture,Yes,Luxury Traveler
+Olivia,Quinn,55,Kent,Management,Single,M,"$495,296.33 ",City Tour,Yes,Budget Backpacking
+Georgia,Sacha,48,RM,Management,Married,F,"$166,142.59 ",Solo Trip,Yes,Budget Backpacking
+Sasha,Zelda,52,Antalya,Arts Design Entertainment Sports and Media,Single,F,"$375,377.49 ",Family Vacation,Yes,Luxury Traveler
+Shelly,Indira,80,SA,Arts Design Entertainment Sports and Media,Divorced,Non-binery,"$54,093.29 ",Culture Vulture,Yes,Luxury Traveler
+Madonna,Sylvia,11,Leinster, Computer and Mathematical,Divorced,M,"$163,185.21 ",City Tour,Yes,Budget Backpacking
+Candice,Xantha,78,NSW,Business and Financial Operations,Married,F,"$163,651.16 ",Solo Trip,No,Luxury Traveler
+Kaitlin,Vera,90,New South Wales, Construction and Extraction,Married,F,"$89,066.18 ",Beach Trip,No,Luxury Traveler
+Mechelle,Britanni,73,OG,Farming Fishing and Forestry,Married,Non-binery,"$152,785.17 ",Culture Vulture,No,Luxury Traveler
+Zelda,Daphne,61,Sokoto, Military,Single,F,"$16,337.41 ",Solo Trip,Yes,Luxury Traveler
+Hadassah,Tatum,62,Kaduna, Construction and Extraction,Single,F,"$478,221.86 ",City Tour,No,Luxury Traveler
+Blair,Marny,53,Montana,Architecture and Engineering,Single,F,"$487,587.73 ",Family Vacation,Yes,Budget Backpacking
+Inez,Rhoda,29,Ulster, Computer and Mathematical,Single,M,"$141,543.12 ",Nature,Yes,Budget Backpacking
+Megan,Chanda,14,BE,Protective Service,Divorced,M,"$493,974.15 ",Solo Trip,Yes,Luxury Traveler
+Calista,Amaya,36,DB,Farming Fishing and Forestry,Single,F,"$73,801.33 ",Family Vacation,No,Luxury Traveler
+Violet,Amelia,2,NI,Office and Administrative Support,Single,M,"$177,757.28 ",Nature,Yes,Budget Backpacking
+Alika,Calista,86,Queensland,Business and Financial Operations,Divorced,M,"$93,597.01 ",Culture Vulture,No,Luxury Traveler
+Maxine,Sarah,2,Gelderland,Protective Service,Married,F,"$183,163.14 ",City Tour,No,Luxury Traveler
+Nola,Nita,21,Heredia,Protective Service,Single,F,"$75,417.87 ",Beach Trip,Yes,Budget Backpacking
+Dominique,Dara,66,Provence-Alpes-Côte d'Azur,Food Preparation and Serving Related,Married,F,"$304,191.80 ",Nature,No,Luxury Traveler
+Selma,Keelie,2,North Island, Computer and Mathematical,Single,M,"$109,253.63 ",Nature,No,Luxury Traveler
+Winter,Eden,80,Istanbul,Business and Financial Operations,Divorced,F,"$236,161.15 ",Nature,No,Luxury Traveler
+Nyssa,Yeo,64,VIC,Farming Fishing and Forestry,Married,F,"$20,278.32 ",Culture Vulture,Yes,Budget Backpacking
+Azalia,TaShya,94,Vienna, Computer and Mathematical,Married,Non-binery,"$123,093.05 ",Nature,No,Luxury Traveler
+Inez,Lynn,69,Wie,Protective Service,Single,M,"$409,075.60 ",Solo Trip,Yes,Luxury Traveler
+Chiquita,Katell,52,WP,Arts Design Entertainment Sports and Media,Single,M,"$138,029.13 ",Beach Trip,No,Luxury Traveler
+Caryn,Risa,71,Oost-Vlaanderen, Construction and Extraction,Single,M,"$411,859.04 ",Beach Trip,Yes,Budget Backpacking
+Inga,Karyn,38,Zachodniopomorskie,Food Preparation and Serving Related,Divorced,F,"$269,422.67 ",Nature,No,Luxury Traveler
+Brooke,Heidi,90,N.,Life and Social Science,Single,Non-binery,"$155,841.30 ",Solo Trip,No,Luxury Traveler
+Kirestin,Jolie,85,Rajasthan,Healthcare Practitioners and Technical,Married,Non-binery,"$327,449.14 ",Nature,Yes,Luxury Traveler
+Desirae,Rebecca,49,Maryland,Life and Social Science,Married,F,"$128,104.02 ",Beach Trip,Yes,Budget Backpacking
+Risa,Simone,25,CL,Business and Financial Operations,Single,Non-binery,"$195,609.63 ",Solo Trip,Yes,Luxury Traveler
+Rhoda,Deborah,51,NSW,Healthcare Practitioners and Technical,Married,Non-binery,"$360,156.60 ",Solo Trip,No,Budget Backpacking
+Idola,Aline,63,MA,Management,Single,F,"$435,643.23 ",Family Vacation,No,Budget Backpacking
+Melissa,Oprah,53,KN,Healthcare Practitioners and Technical,Married,Non-binery,"$249,390.82 ",City Tour,No,Luxury Traveler
+Cora,Dai,91,JH,Food Preparation and Serving Related,Married,M,"$208,314.03 ",City Tour,Yes,Luxury Traveler
+Amena,Isabelle,79,North Island,Business and Financial Operations,Married,Non-binery,"$420,212.40 ",Culture Vulture,Yes,Luxury Traveler
+Martena,Winter,31,Victoria, Computer and Mathematical,Divorced,M,"$148,076.56 ",Solo Trip,No,Budget Backpacking
+Yen,Zephr,35,Jönköpings län,Food Preparation and Serving Related,Divorced,F,"$279,407.71 ",Solo Trip,Yes,Luxury Traveler
+Adria,Ariel,80,MO,Life and Social Science,Divorced,M,"$174,295.67 ",Nature,No,Luxury Traveler
+Velma,Madeline,74,OG,Architecture and Engineering,Married,F,"$432,689.36 ",Nature,Yes,Budget Backpacking
+Ivory,Iliana,87,Nord-Pas-de-Calais,Business and Financial Operations,Married,F,"$486,673.22 ",Family Vacation,Yes,Budget Backpacking
+Mariam,Kiayada,59,Ontario,Food Preparation and Serving Related,Single,F,"$360,083.64 ",Solo Trip,No,Budget Backpacking
+Yetta,Pandora,23,LD, Military,Single,Non-binery,"$272,198.61 ",Family Vacation,No,Budget Backpacking
+Stacy,Jaden,65,Wie,Office and Administrative Support,Married,Non-binery,"$1,206.91 ",Family Vacation,No,Budget Backpacking
+Adara,Venus,46,Adana, Military,Married,Non-binery,"$28,187.16 ",Family Vacation,No,Luxury Traveler
+Carly,Jordan,41,Luxemburg,Arts Design Entertainment Sports and Media,Married,F,"$73,600.92 ",City Tour,Yes,Budget Backpacking
+Leilani,Hedda,66,Gl, Construction and Extraction,Divorced,F,"$290,416.86 ",Solo Trip,Yes,Budget Backpacking
+Hermione,Penelope,48,Vienna, Military,Single,F,"$167,140.92 ",Nature,Yes,Luxury Traveler
+Stacey,Harriet,60,Wie,Healthcare Practitioners and Technical,Divorced,M,"$430,182.97 ",City Tour,Yes,Luxury Traveler
+Dai,Donna,19,SJ,Protective Service,Divorced,Non-binery,"$475,975.15 ",Culture Vulture,Yes,Budget Backpacking
+Desiree,Galena,30,Noord Holland,Architecture and Engineering,Divorced,F,"$216,859.35 ",Nature,No,Budget Backpacking
+Mona,McKenzie,31,Ontario,Life and Social Science,Single,M,"$341,450.54 ",City Tour,No,Budget Backpacking
+Fatima,Colleen,19,MT,Office and Administrative Support,Divorced,Non-binery,"$198,796.90 ",Culture Vulture,Yes,Luxury Traveler
+Latifah,Karly,29,British Columbia,Arts Design Entertainment Sports and Media,Divorced,Non-binery,"$471,573.43 ",Nature,No,Luxury Traveler
+Jade,Naomi,55,Hamburg,Food Preparation and Serving Related,Married,F,"$245,066.37 ",Nature,No,Budget Backpacking
+Lenore,Anjolie,16,Munster,Business and Financial Operations,Divorced,F,"$151,923.43 ",Beach Trip,No,Budget Backpacking
+Wynne,Jana,4,Angus,Business and Financial Operations,Single,M,"$286,554.71 ",Solo Trip,No,Budget Backpacking
+Phoebe,Shelby,86,N.,Management,Divorced,M,"$32,304.83 ",Family Vacation,No,Budget Backpacking
+Jane,Sigourney,90,Stockholms län,Protective Service,Divorced,M,"$427,813.30 ",Family Vacation,No,Luxury Traveler
+Adele,Imogene,28,Swiętokrzyskie,Life and Social Science,Divorced,F,"$173,992.55 ",City Tour,No,Luxury Traveler
+Giselle,Melissa,97,Berlin,Architecture and Engineering,Married,F,"$7,149.43 ",Culture Vulture,Yes,Budget Backpacking
+Shaeleigh,Illana,72,San José,Food Preparation and Serving Related,Divorced,Non-binery,"$412,988.92 ",Solo Trip,No,Budget Backpacking
+Alfreda,Jael,21,AN,Food Preparation and Serving Related,Married,Non-binery,"$294,573.27 ",City Tour,Yes,Budget Backpacking
+Imani,Zoe,19,KP,Management,Divorced,Non-binery,"$51,797.48 ",City Tour,No,Luxury Traveler
+Illiana,Scarlet,70,RJ, Military,Divorced,M,"$212,584.13 ",City Tour,No,Budget Backpacking
+Kaden,Lacota,64,Quebec, Military,Married,M,"$313,965.87 ",Beach Trip,Yes,Luxury Traveler
+Rylee,Bertha,67,Ulster,Farming Fishing and Forestry,Single,M,"$481,923.42 ",Nature,No,Luxury Traveler
+Blythe,Stephanie,46,Z., Military,Divorced,M,"$192,049.00 ",Family Vacation,No,Budget Backpacking
+Raven,Imelda,37,PUG,Life and Social Science,Divorced,Non-binery,"$371,114.11 ",Culture Vulture,Yes,Budget Backpacking
+Gage,Rama,34,Andhra Pradesh,Arts Design Entertainment Sports and Media,Married,F,"$65,720.79 ",Nature,No,Luxury Traveler
+Briar,Mufutau,76,ON, Construction and Extraction,Divorced,Non-binery,"$198,997.41 ",Nature,No,Budget Backpacking
+Wang,Joelle,36,AN,Business and Financial Operations,Single,F,"$234,042.48 ",Nature,No,Budget Backpacking
+Alexis,Kamal,70,Saskatchewan,Management,Single,M,"$346,909.58 ",Solo Trip,No,Luxury Traveler
+Neil,Hedy,59,North Island,Food Preparation and Serving Related,Divorced,Non-binery,"$391,207.91 ",Nature,No,Budget Backpacking
+Gregory,Clark,82,LU,Protective Service,Married,Non-binery,"$298,682.67 ",Family Vacation,No,Budget Backpacking
+Wyatt,Winifred,7,NO,Architecture and Engineering,Married,Non-binery,"$470,750.77 ",Beach Trip,Yes,Luxury Traveler
+Elmo,Graiden,96,VII,Business and Financial Operations,Single,Non-binery,"$451,661.08 ",Beach Trip,Yes,Luxury Traveler
+Elvis,Lane,3,Saxony,Protective Service,Married,F,"$164,416.52 ",Culture Vulture,No,Budget Backpacking
+Kato,Barry,30,LE, Military,Single,F,"$212,193.95 ",Family Vacation,No,Budget Backpacking
+Amos,Sage,39,Wie,Life and Social Science,Married,M,"$365,664.18 ",Culture Vulture,Yes,Luxury Traveler
+Hiram,Leila,39,Ontario,Protective Service,Single,Non-binery,"$59,947.29 ",Nature,Yes,Luxury Traveler
+Bianca,Herrod,77,Kaduna, Military,Single,Non-binery,"$428,779.51 ",Beach Trip,Yes,Luxury Traveler
+Emery,Nathan,61,A,Farming Fishing and Forestry,Divorced,M,"$483,110.65 ",Beach Trip,Yes,Luxury Traveler
+Gray,Stacey,33,Western Australia,Arts Design Entertainment Sports and Media,Married,Non-binery,"$493,589.70 ",Beach Trip,Yes,Luxury Traveler
+Alana,Raja,84,Ontario,Arts Design Entertainment Sports and Media,Divorced,M,"$142,760.56 ",Beach Trip,Yes,Luxury Traveler
+Maia,Barbara,71,Canarias, Computer and Mathematical,Single,M,"$164,321.23 ",Beach Trip,No,Budget Backpacking
+Kasimir,Maxine,16,MV,Management,Married,Non-binery,"$31,196.95 ",Family Vacation,Yes,Luxury Traveler
+Giacomo,Zelenia,75,Paraná,Architecture and Engineering,Married,Non-binery,"$73,032.76 ",Solo Trip,Yes,Luxury Traveler
+Kyle,Lars,92,UT, Construction and Extraction,Single,M,"$401,214.98 ",Family Vacation,No,Budget Backpacking
+Baker,Hall,47,Antwerpen, Construction and Extraction,Single,F,"$159,346.95 ",Solo Trip,No,Luxury Traveler
+Solomon,Joelle,8,Ontario,Business and Financial Operations,Married,M,"$475,836.64 ",Solo Trip,No,Budget Backpacking
+Camilla,Maggie,70,MN, Military,Single,M,"$393,549.38 ",Nature,No,Budget Backpacking
+Brennan,Geraldine,77,CE,Management,Married,Non-binery,"$448,152.01 ",Nature,No,Budget Backpacking
+Veronica,Dale,28,Victoria,Life and Social Science,Single,F,"$106,804.95 ",Family Vacation,Yes,Luxury Traveler
+Lesley,Iola,43,Hamburg,Arts Design Entertainment Sports and Media,Married,M,"$94,787.83 ",Beach Trip,No,Budget Backpacking
+Barbara,Whilemina,40,Noord Brabant,Management,Divorced,F,"$296,438.03 ",Solo Trip,Yes,Budget Backpacking
+Garrett,Ryan,73,Gl,Architecture and Engineering,Single,M,"$436,340.11 ",Beach Trip,Yes,Budget Backpacking
+Lionel,Mason,68,PA,Office and Administrative Support,Single,F,"$34,739.76 ",Nature,No,Luxury Traveler
+Theodore,Sasha,84,Andalucía,Healthcare Practitioners and Technical,Single,Non-binery,"$126,951.64 ",Nature,Yes,Budget Backpacking
+Logan,Louis,86,Lombardia,Business and Financial Operations,Single,M,"$188,969.68 ",Culture Vulture,Yes,Budget Backpacking
+Fallon,Aspen,98,KR,Healthcare Practitioners and Technical,Single,Non-binery,"$159,275.47 ",Beach Trip,No,Luxury Traveler
+Haviva,Bernard,46,Zuid Holland,Healthcare Practitioners and Technical,Divorced,Non-binery,"$229,419.90 ",City Tour,No,Budget Backpacking
+Amanda,Hayden,66,Luxemburg, Computer and Mathematical,Married,F,"$499,568.92 ",Nature,Yes,Luxury Traveler
+Karleigh,Vladimir,14,Rio de Janeiro,Healthcare Practitioners and Technical,Divorced,M,"$107,708.90 ",Nature,Yes,Luxury Traveler
+Byron,Amery,87,Vlaams-Brabant, Construction and Extraction,Single,Non-binery,"$372,847.49 ",City Tour,Yes,Luxury Traveler
+Noble,Georgia,36,Ontario, Computer and Mathematical,Single,M,"$30,652.05 ",Solo Trip,Yes,Budget Backpacking
+Drew,Todd,77,QC, Military,Married,Non-binery,"$194,927.76 ",Family Vacation,Yes,Luxury Traveler
+Sandra,Shay,59,Noord Holland,Office and Administrative Support,Divorced,Non-binery,"$108,173.56 ",Culture Vulture,No,Luxury Traveler
+Lane,Christine,87,North Island,Food Preparation and Serving Related,Single,Non-binery,"$83,724.27 ",Solo Trip,Yes,Budget Backpacking
+Samuel,Allen,77,Quebec,Food Preparation and Serving Related,Single,M,"$39,519.13 ",Solo Trip,Yes,Budget Backpacking
+Ralph,Joseph,61,Minas Gerais,Life and Social Science,Married,F,"$126,620.44 ",Beach Trip,No,Luxury Traveler
+Donovan,Aiko,69,WP,Life and Social Science,Single,M,"$384,711.96 ",Beach Trip,Yes,Budget Backpacking
+Daryl,Dai,50,GJ,Farming Fishing and Forestry,Divorced,M,"$222,799.32 ",Culture Vulture,No,Luxury Traveler
+Malik,Candace,58,Lombardia,Food Preparation and Serving Related,Single,Non-binery,"$328,181.12 ",City Tour,Yes,Luxury Traveler
+Amaya,Piper,47,Metropolitana de Santiago, Construction and Extraction,Married,F,"$56,826.58 ",Nature,Yes,Luxury Traveler
+Signe,Nigel,21,CM,Life and Social Science,Single,Non-binery,"$269,966.38 ",Beach Trip,No,Budget Backpacking
+Buffy,Murphy,48,FL,Healthcare Practitioners and Technical,Single,F,"$17,981.95 ",Culture Vulture,No,Budget Backpacking
+Melyssa,Violet,47,LAZ,Life and Social Science,Single,F,"$402,107.19 ",Solo Trip,No,Luxury Traveler
+Keiko,Haley,95,Provence-Alpes-Côte d'Azur,Food Preparation and Serving Related,Divorced,M,"$207,056.12 ",Culture Vulture,Yes,Budget Backpacking
+Hillary,Amethyst,99,NL,Architecture and Engineering,Married,Non-binery,"$10,883.04 ",Beach Trip,No,Budget Backpacking
+Hanna,Wade,38,CA,Business and Financial Operations,Married,F,"$194,539.65 ",Beach Trip,No,Luxury Traveler
+Shannon,Timothy,66,Puglia,Farming Fishing and Forestry,Married,F,"$63,632.97 ",City Tour,Yes,Luxury Traveler
+Germaine,Beau,52,Gelderland,Farming Fishing and Forestry,Married,M,"$135,396.03 ",Culture Vulture,Yes,Luxury Traveler
+Rebecca,Anastasia,9,North Island,Protective Service,Divorced,F,"$452,554.71 ",Family Vacation,Yes,Budget Backpacking
+Liberty,Clayton,32,Vlaams-Brabant,Healthcare Practitioners and Technical,Married,M,"$392,364.44 ",Beach Trip,Yes,Luxury Traveler
+Carissa,Raya,48,GO,Farming Fishing and Forestry,Divorced,Non-binery,"$79,928.06 ",Solo Trip,Yes,Luxury Traveler
+Gavin,Rinah,44,Catalunya,Management,Married,Non-binery,"$84,125.25 ",Beach Trip,Yes,Luxury Traveler
+Orlando,Colby,47,Jönköpings län,Life and Social Science,Single,F,"$131,680.67 ",Culture Vulture,Yes,Luxury Traveler
+Berk,Maya,36,Gelderland,Life and Social Science,Single,M,"$140,084.27 ",Culture Vulture,No,Luxury Traveler
+Isaac,Liberty,11,NSW, Military,Single,M,"$11,489.38 ",Culture Vulture,No,Budget Backpacking
+Eagan,Marcia,77,Brussels Hoofdstedelijk Gewest,Life and Social Science,Divorced,M,"$162,833.39 ",Culture Vulture,Yes,Luxury Traveler
+Russell,Avram,27,U,Healthcare Practitioners and Technical,Single,M,"$272,979.59 ",Nature,Yes,Luxury Traveler
+Fulton,Fleur,68,CAL,Architecture and Engineering,Single,F,"$348,708.95 ",Solo Trip,Yes,Budget Backpacking
+Catherine,Dana,75,South Island, Military,Single,Non-binery,"$79,792.24 ",Solo Trip,No,Budget Backpacking
+Xantha,Price,40,L.,Arts Design Entertainment Sports and Media,Married,Non-binery,"$200,566.07 ",Solo Trip,Yes,Luxury Traveler
+Ora,Owen,59,VB,Farming Fishing and Forestry,Single,F,"$417,277.16 ",Nature,No,Budget Backpacking
+Nora,Keelie,97,Manitoba, Construction and Extraction,Single,F,"$317,579.29 ",City Tour,No,Budget Backpacking
+Dolan,Jason,46,Zuid Holland,Food Preparation and Serving Related,Married,F,"$408,694.51 ",Culture Vulture,No,Luxury Traveler
+Kamal,Jasper,76,FL,Healthcare Practitioners and Technical,Married,Non-binery,"$268,295.10 ",Family Vacation,Yes,Budget Backpacking
+Dora,Carlos,88,Rajasthan,Management,Single,F,"$167,713.34 ",Family Vacation,Yes,Luxury Traveler
+Derek,Berk,98,CM,Life and Social Science,Single,M,"$375,518.38 ",City Tour,Yes,Budget Backpacking
+Ina,Sebastian,100,Dolnośląskie, Computer and Mathematical,Divorced,Non-binery,"$200,806.52 ",Solo Trip,Yes,Luxury Traveler
+Ali,Daryl,13,AP,Office and Administrative Support,Married,M,"$484,276.72 ",Family Vacation,No,Budget Backpacking
+Signe,Giacomo,46,Wie,Life and Social Science,Married,F,"$42,421.10 ",Culture Vulture,No,Budget Backpacking
+Igor,Dara,35,NI,Life and Social Science,Divorced,M,"$191,522.44 ",City Tour,Yes,Budget Backpacking
+Reagan,Jaquelyn,96,Los Ríos,Architecture and Engineering,Divorced,F,"$247,618.59 ",City Tour,No,Budget Backpacking
+Nora,Charlotte,19,Ist,Life and Social Science,Divorced,Non-binery,"$168,567.95 ",Solo Trip,No,Budget Backpacking
+Clinton,Craig,7,BR,Architecture and Engineering,Single,F,"$161,601.85 ",Family Vacation,No,Budget Backpacking
+May,Carl,77,LU,Healthcare Practitioners and Technical,Married,F,"$192,563.90 ",Beach Trip,No,Luxury Traveler
+Cassady,Ann,26,BE,Management,Married,M,"$323,577.72 ",Family Vacation,No,Luxury Traveler
+Yvonne,Melyssa,22,SJ,Arts Design Entertainment Sports and Media,Divorced,M,"$441,817.84 ",Beach Trip,No,Luxury Traveler
+Wyatt,Kai,22,Bremen,Food Preparation and Serving Related,Divorced,Non-binery,"$92,215.20 ",City Tour,Yes,Budget Backpacking
+Odette,Zephr,83,CA,Protective Service,Divorced,F,"$361,153.49 ",Culture Vulture,Yes,Budget Backpacking
+Barbara,Aladdin,31,IV, Computer and Mathematical,Single,Non-binery,"$464,412.48 ",Beach Trip,Yes,Budget Backpacking
+Chandler,Daria,77,AB,Healthcare Practitioners and Technical,Single,Non-binery,"$256,756.00 ",Beach Trip,Yes,Luxury Traveler
+Yetta,Cain,40,Ontario,Healthcare Practitioners and Technical,Married,F,"$389,550.11 ",Culture Vulture,Yes,Budget Backpacking
+Wanda,Yardley,9,North Island,Business and Financial Operations,Married,Non-binery,"$38,787.22 ",Family Vacation,No,Budget Backpacking
+Ora,Cheryl,12,Lombardia,Food Preparation and Serving Related,Single,M,"$444,435.94 ",Culture Vulture,Yes,Luxury Traveler
+Rylee,Joseph,3,RM,Food Preparation and Serving Related,Divorced,M,"$95,937.44 ",Nature,No,Luxury Traveler
+Ashton,Raymond,43,Hawaii,Office and Administrative Support,Single,Non-binery,"$498,977.59 ",Family Vacation,No,Luxury Traveler
+Avram,Whitney,61,SIC,Arts Design Entertainment Sports and Media,Single,F,"$479,816.22 ",Nature,Yes,Budget Backpacking
+Alfreda,Lois,18,LA,Architecture and Engineering,Married,F,"$155,835.89 ",City Tour,Yes,Budget Backpacking
+Walter,Sheila,88,BC, Military,Married,F,"$85,171.44 ",Beach Trip,Yes,Budget Backpacking
+Lilah,Austin,3,Kah,Architecture and Engineering,Single,F,"$102,745.84 ",Solo Trip,Yes,Luxury Traveler
+Zelda,Lamar,52,FI,Protective Service,Married,Non-binery,"$443,131.77 ",Culture Vulture,Yes,Budget Backpacking
+Lani,Quincy,96,RO,Management,Divorced,M,"$435,570.94 ",Solo Trip,Yes,Luxury Traveler
+Ruby,Samson,88,Sicilia,Office and Administrative Support,Married,M,"$225,538.23 ",Nature,No,Budget Backpacking
+Hu,Noel,23,Castilla y León,Protective Service,Single,Non-binery,"$68,542.61 ",Nature,Yes,Luxury Traveler
+Ryder,Macon,29,Vienna,Healthcare Practitioners and Technical,Divorced,M,"$213,819.86 ",City Tour,No,Budget Backpacking
