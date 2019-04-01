@@ -1,0 +1,1951 @@
+,id,full_name,birthday,gender,state,Abrv state
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
+0,3218,Robert A. Bonifas,6/4/1937,M,Illinois,IL
+1,3533,Donald M Parrish Jr,10/27/1944,M,Illinois,IL
+2,1,Charles A Veley,6/25/1965,M,California,CA
+3,53,Bill Altaffer,7/17/1943,M,California,CA
+4,1125,Jagannathan Srinivasaraghavan,5/13/1950,M,Illinois,IL
+5,1189,Bart Hackley,10/1/1944,M,California,CA
+6,8149,Frank Rainer,5/8/1943,M,California,CA
+7,2770,Larry Leventhal*,5/25/1935,M,New York,NY
+8,19571,Dominik Grzyb,6/23/1973,M,Wisconsin,WI
+9,12131,Bob Parda,1/5/1946,M,California,CA
+10,56,Alexander Gushansky,5/23/1937,M,California,CA
+11,5581,Joseph Krawczyk,6/1/1961,M,Alabama,AL
+12,15222,"John F. Burke, Jr.",3/25/1937,M,Ohio,OH
+13,41231,Steve Newcomer,11/16/1957,M,California,CA
+14,12163,Carmen Mccormick,8/29/1968,F,California,CA
+15,597,Alan K. Hogenauer*,9/17/1941,M,California,CA
+16,164,Robert Ippolito,12/30/1946,M,North Carolina,NC
+17,32394,Michael Chalmer Dunn,3/31/1949,M,Illinois,IL
+18,6329,Robert Petrik,1/17/1940,M,Florida,FL
+19,98,Carolyn Broadwell,12/13/1931,F,California,CA
+20,328,Christine Kloner,7/11/1963,F,New York,NY
+21,32,Tim Carlson,2/9/1938,M,California,CA
+22,1589,Ray Woods,2/28/1942,M,Kansas,KS
+23,111,Michael Novins,3/20/1964,M,New York,NY
+24,5186,Ed Reynolds,8/5/1935,M,California,CA
+25,2759,Valentin Sazhin,9/23/1959,M,New York,NY
+26,5544,Joel Baumbaugh,7/9/1950,M,California,CA
+27,317,Lynn Stephenson,11/15/1926,F,North Carolina,NC
+28,524,Steve Fuller,7/12/1948,M,Missouri,MO
+29,7411,Robert Amon,9/24/1940,M,Oregon,OR
+30,8066,Magali V. Hinojosa,11/10/1950,F,Texas,TX
+31,24615,Tim Meyer,5/29/1955,M,Nevada,NV
+32,23,Ted Cookson,5/29/1951,M,Florida,FL
+33,2153,Richard Pazara,9/25/1946,M,Texas,TX
+34,12614,Frank Robinson,10/23/1942,M,California,CA
+35,14140,Sevi Ceviche,2/29/1976,M,Louisiana,LA
+36,11033,Meredith Amon,7/11/1940,F,Oregon,OR
+37,1483,Jim Fenton,1/10/1931,M,California,CA
+38,4490,Jack Wheeler,11/9/1943,M,District of Columbia,District of Columbia
+39,6125,Cathy Lincoln,7/17/1956,F,Ohio,OH
+40,41540,David Hoffman,10/20/1954,M,Texas,TX
+41,31809,Gene (terry) Johnson,12/11/1948,M,Maryland,MD
+42,4051,Ken Shin,8/30/1934,M,California,CA
+43,1555,Hugh Randall,9/18/1942,M,Florida,FL
+44,4390,Lee Abbamonte,8/29/1978,M,New York,NY
+45,29470,Harold Griffith,12/15/1932,M,California,CA
+46,3774,Gloria Helmuth,11/16/1940,F,Oklahoma,OK
+47,3271,William Ball,8/25/1959,M,Illinois,IL
+48,10387,William Humphries,1/25/1932,M,New York,NY
+49,24006,Charles D. Williams*,3/2/1926,M,Indiana,IN
