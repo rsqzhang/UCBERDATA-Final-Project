@@ -31,7 +31,7 @@
     <button class="btn btn-link btn-sm text-white order-1 order-sm-0" id="sidebarToggle" href="#">
       <i class="fas fa-bars"></i>
     </button>
-
+    </nav>
   <div id="wrapper">
 
     <!-- Sidebar -->
@@ -43,12 +43,12 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="charts.html">
+        <a class="nav-link" href="#">
           <i class="fas fa-fw fa-chart-area"></i>
           <span>Map</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="tables.html">
+        <a class="nav-link" href="#">
           <i class="fas fa-fw fa-table"></i>
           <span>My Answers</span></a>
       </li>
@@ -58,8 +58,8 @@
           <span>Other info</span>
         </a>
         <div class="dropdown-menu" aria-labelledby="pagesDropdown">
-          <a class="dropdown-item" href="charts.html">Interesting Charts</a>
-          <a class="dropdown-item" href="HeatMap.html">Heat Map of travelers</a>
+          <a class="dropdown-item" href="#">Interesting Charts</a>
+          <a class="dropdown-item" href="#">Heat Map of travelers</a>
         </div>
       </li>
 
@@ -105,7 +105,7 @@
                 <div class="form-row">
                   <div class="col-4">
                     <br>
-                    <select name="Age" class="browser-default custom-select mb-2" style="font-family: sans-serif">
+                    <select name="age" class="browser-default custom-select mb-2" style="font-family: sans-serif">
                       <option value="" selected disabled>Select your age</option>
                       <option value="16-19">16 to 19</option>
                       <option value="20-29">20 to 29</option>
@@ -172,6 +172,17 @@
                   </div>
                       <div class="col-4">
                         <br>
+                        <select name="Gender" class="browser-default custom-select mb-2" style="font-family: sans-serif">
+                          <option value="" selected disabled>Select your Gender</option>
+                          <option value="male">Male</option>
+                          <option value="female">Female</option>
+                          <option value="other">Other</option>
+                        </select>
+                      </div>
+                </div>
+                <div class="form-row">
+                  <div class="col-4">
+                    <br>
                         <select name="Occupation" class="browser-default custom-select mb-2" style="font-family: sans-serif">
                           <option value="" selected disabled>Select your Occupation</option>
                           <option value="Comp_math">Computer and Mathematical</option>
@@ -188,19 +199,66 @@
                           <option value="Prot_Serv">Protective Service</option>
                         </select>
                   </div>
+                  <div class="col-4">
+                    <br>
+                        <select name="Marital Status" class="browser-default custom-select mb-2" style="font-family: sans-serif">
+                          <option value="" selected disabled>Select your Marital Status</option>
+                          <option value="Single">Single</option>
+                          <option value="Divorced">Divorced</option>
+                          <option value="Married">Married</option>
+                          <option value="Widowed">Widowed</option>
+                          <option value="Complicated">It's complicated</option>
+                        </select>
+                  </div>
+                  <div class="col-4">
+                    <br>
+                        <select name="income" class="browser-default custom-select mb-2" style="font-family: sans-serif">
+                          <option value="" selected disabled>Select your Annual Income</option>
+                          <option value="0_30000">0 to $30,000</option>
+                          <option value="30001_60000">$30,001 to $60,000 </option>
+                          <option value="60001_100000">$60,001 to $100,000</option>
+                          <option value="100001_500000">$100001 to $500000</option>
+                          <option value="more_500001">More than $500001</option>
+                        </select>
+                  </div>
+
                 </div>
-              </div>
+                <div class="form-row">
+                  <div class="col-4">
+                    <br>
+                        <select name="Favorite_vacation" class="browser-default custom-select mb-2" style="font-family: sans-serif">
+                          <option value="" selected disabled>Select your Favorite Vacation Type</option>
+                          <option value="adventure">Adventure</option>
+                          <option value="Beach">Beach</option>
+                          <option value="Historical">Historical</option>
+                          <option value="Party">Party</option>
+                        </select>
+                  </div>
+                  <div class="col-4">
+                    <br>
+                        <select name="FOMO" class="browser-default custom-select mb-2" style="font-family: sans-serif">
+                          <option value="" selected disabled>Are you afraid of missing out (FOMO)?</option>
+                          <option value="yes_FOMO">Totally FOMO</option>
+                          <option value="nah_FOMO">I don't have FOMO</option>
+                        </select>
+                  </div>
+                  <div class="col-4">
+                    <br>
+                        <select name="kind_traveler" class="browser-default custom-select mb-2" style="font-family: sans-serif">
+                          <option value="" selected disabled>Select your type of traveler</option>
+                          <option value="budget">On a budget</option>
+                          <option value="casual">Casual traveler </option>
+                          <option value="highend">Only the best while traveling</option>                          
+                        </select>
+                  </div>
+
+                </div>
             </form>
-          </div>
-        </div>
-      </div>
+        
+        
+      
       <!-- /.container-fluid -->
 
-      <!-- Sticky Footer -->
-      <footer class="sticky-footer">
-        <div class="container my-auto">
-          <div class="copyright text-center my-auto">
-            <span>Copyright © Your Website 2019</span>
           </div>
         </div>
       </footer>
