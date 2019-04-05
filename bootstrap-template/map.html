@@ -8,7 +8,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
-    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
+	<script data-require="jquery@2.1.4" data-semver="2.1.4" src="https://code.jquery.com/jquery-2.1.4.js"></script>
+	<script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
 
 
 	<style>
@@ -27,6 +28,14 @@
 .legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }</style>
 </head>
 <body>
+
+<div id="selection">
+	<label for="countrydropdown">Select a Country</label>
+	<select id="countrydropdown" name="dropdown">
+		<option>Czech Republic</option>
+		<option>United Kingdom</option>
+	</select>
+</div>
 
 <div id='map'></div>
 
@@ -116,9 +125,21 @@
 		onEachFeature: onEachFeature
 	}).addTo(map);
 
+	$('select[name="dropdown').change(function() {
+		var item = $(this).val();
+		console.log(item);
+		geojson.eachLayer(function(layer) {
+			// console.log(layer.feature.properties.name);
+
+			try {
+				if(layer.feature.properties.name == item){
+					highlightFeature({ "target": layer})
+					zoomToFeature({ "target": layer})
+				}
+			} catch(e) {}
+		});
+	});
 </script>
-
-
 
 </body>
 </html>
