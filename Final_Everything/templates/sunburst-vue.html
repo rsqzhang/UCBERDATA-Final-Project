@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/vue-d2b"></script>
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<script src="../../../node_modules/d3/build/d3.min.js"></script>
+<script src="../../../build/d2b.js"></script>
+
+<style>
+  body, html {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+  }
+
+  #app {
+    height: 500px;
+  }
+</style>
+
+<body>
+  <div id = 'app'>
+    <sunburst-chart :data = 'sunburstChartData'></sunburst-chart>
+  </div>
+
+  <script>
+    var app = new Vue({
+      el: '#app',
+      components: {
+        'sunburst-chart': vued2b.ChartSunburst
+      },
+      data: {
+        sunburstChartData: {
+          label: 'Euro-trip',
+          children: [
+            
+          {label: 'California', children: [
+{label: 'Austria', size: 1},
+{label: 'Belgium', size: 2},
+{label: 'Bulgaria', size: 1},
+{label: 'Croatia', size: 1},
+{label: 'Czech Republic', size: 2},
+{label: 'Denmark', size: 3},
+{label: 'Estonia', size: 1},
+{label: 'Finland', size: 1},
+{label: 'France', size: 10},
+{label: 'Germany', size: 7},
+{label: 'Greece', size: 3},
+{label: 'Hungary', size: 1},
+{label: 'Italy', size: 15},
+{label: 'Latvia', size: 1},
+{label: 'Lithuania', size: 1},
+{label: 'Netherlands', size: 2},
+{label: 'Poland', size: 1},
+{label: 'Portugal', size: 3},
+{label: 'Romania', size: 2},
+{label: 'Slovakia', size: 1},
+{label: 'Slovenia', size: 1},
+{label: 'Spain', size: 11},
+{label: 'Sweden', size: 1},
+{label: 'United Kingdom', size: 11}
+]},{label: 'Colorado', children: [
+{label: 'United Kingdom', size: 1}
+]},{label: 'Florida', children: [
+{label: 'Czech Republic', size: 1},
+{label: 'Denmark', size: 1},
+{label: 'France', size: 2},
+{label: 'Greece', size: 1},
+{label: 'Italy', size: 2},
+{label: 'Malta', size: 1},
+{label: 'Portugal', size: 2},
+{label: 'Spain', size: 1},
+{label: 'United Kingdom', size: 7}
+]},{label: 'Georgia', children: [
+{label: 'United Kingdom', size: 2}
+]},{label: 'Hawaii', children: [
+{label: 'Belgium', size: 1},
+{label: 'Romania', size: 1},
+{label: 'United Kingdom', size: 1}
+]},{label: 'Illinois', children: [
+{label: 'Czech Republic', size: 1},
+{label: 'Finland', size: 1},
+{label: 'France', size: 1},
+{label: 'Italy', size: 1},
+{label: 'Netherlands', size: 1}
+]},{label: 'Louisiana', children: [
+{label: 'United Kingdom', size: 1}
+]},{label: 'Michigan', children: [
+{label: 'Spain', size: 2}
+]},{label: 'Minnesota', children: [
+{label: 'Greece', size: 1}
+]},{label: 'New Jersey', children: [
+{label: 'Austria', size: 1},
+{label: 'Denmark', size: 1},
+{label: 'Germany', size: 1},
+{label: 'Hungary', size: 1},
+{label: 'Netherlands', size: 3},
+{label: 'Slovakia', size: 1},
+{label: 'United Kingdom', size: 3}
+]},{label: 'New York', children: [
+{label: 'Austria', size: 1},
+{label: 'Belgium', size: 5},
+{label: 'Bulgaria', size: 1},
+{label: 'Croatia', size: 2},
+{label: 'Cyprus', size: 2},
+{label: 'Czech Republic', size: 1},
+{label: 'Denmark', size: 4},
+{label: 'Estonia', size: 2},
+{label: 'Finland', size: 3},
+{label: 'France', size: 26},
+{label: 'Germany', size: 21},
+{label: 'Greece', size: 5},
+{label: 'Hungary', size: 1},
+{label: 'Italy', size: 15},
+{label: 'Latvia', size: 1},
+{label: 'Lithuania', size: 2},
+{label: 'Luxembourg', size: 1},
+{label: 'Malta', size: 1},
+{label: 'Netherlands', size: 7},
+{label: 'Poland', size: 1},
+{label: 'Portugal', size: 3},
+{label: 'Romania', size: 1},
+{label: 'Slovakia', size: 1},
+{label: 'Slovenia', size: 1},
+{label: 'Spain', size: 24},
+{label: 'Sweden', size: 2},
+{label: 'United Kingdom', size: 23}
+]},{label: 'North Carolina', children: [
+{label: 'Croatia', size: 1}
+]},{label: 'Oklahoma', children: [
+{label: 'United Kingdom', size: 1}
+]},{label: 'Pennsylvania', children: [
+{label: 'Austria', size: 1},
+{label: 'Belgium', size: 2},
+{label: 'Czech Republic', size: 1},
+{label: 'Denmark', size: 1},
+{label: 'Estonia', size: 1},
+{label: 'Finland', size: 1},
+{label: 'France', size: 10},
+{label: 'Germany', size: 2},
+{label: 'Greece', size: 2},
+{label: 'Italy', size: 5},
+{label: 'Malta', size: 1},
+{label: 'Netherlands', size: 5},
+{label: 'Poland', size: 1},
+{label: 'Portugal', size: 2},
+{label: 'Spain', size: 5},
+{label: 'Sweden', size: 1},
+{label: 'United Kingdom', size: 6}
+]},{label: 'Tennessee', children: [
+{label: 'Estonia', size: 1},
+{label: 'France', size: 1},
+{label: 'Germany', size: 1},
+{label: 'Greece', size: 2},
+{label: 'Italy', size: 1},
+{label: 'Netherlands', size: 4},
+{label: 'Portugal', size: 1},
+{label: 'Spain', size: 1},
+{label: 'United Kingdom', size: 6}
+]},{label: 'Texas', children: [
+{label: 'Spain', size: 1},
+{label: 'United Kingdom', size: 1}
+]},{label: 'Virginia', children: [
+{label: 'Luxembourg', size: 1}
+]},{label: 'West Virginia', children: [
+{label: 'Italy', size: 1}
+]},{label: 'Wisconsin', children: [
+{label: 'United Kingdom', size: 1}
+]}
+          ]
+        }
+      }
+    });
+
+  </script>
+</body>
+</html>
